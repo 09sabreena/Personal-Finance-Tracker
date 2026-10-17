@@ -1,0 +1,22 @@
+# Compiled class files
+*.class
+out/
+bin/
+build/
+target/
+
+# Data & exports (optional – remove these lines if you want to commit sample data)
+data/
+exports/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
